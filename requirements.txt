@@ -1,0 +1,7 @@
+numpy
+opencv-python
+streamlit
+jupyter
+ipykernel
+torch
+torchvision
